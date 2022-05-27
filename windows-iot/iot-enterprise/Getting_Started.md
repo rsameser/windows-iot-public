@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Windows IoT Enterprise
+title: Getting Started with Windows IoT Enterprises
 author: rsameser
 ms.author: riameser
 ms.date: 10/05/2021
